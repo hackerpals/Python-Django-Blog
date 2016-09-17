@@ -1,2 +1,2 @@
-# Pytohn-Django-Blog
+# Python-Django-Blog
 A Django Blog 
